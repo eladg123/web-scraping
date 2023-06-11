@@ -1,0 +1,2 @@
+הורדת דריבר בלינק הזה: https://chromedriver.chromium.org/downloads
+גרסת סלניום לpip install selenium==3.141.0
